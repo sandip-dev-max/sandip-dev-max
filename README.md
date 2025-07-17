@@ -9,7 +9,7 @@
 ### 💡 About Me
 - 🎓 I'm a 3rd semester BCA student passionate about technology & development.
 - 🌐 I build **web applications**, work on **SaaS projects**, and love **clean UI/UX**.
-- 🔭 Currently working on: `Multi-role SaaS Dashboard`, `E-commerce Website`.
+- 🔭 Currently working on: `Multi-role SaaS Dashboard`, `E-commerce Website`, `Task Management Stystem`.
 - 💡 Exploring **Next.js**, **Node.js**, and **full-stack development**.
 - 📘 Learning: **JavaScript**, **TypeScript**, **DBMS**, **System Design**.
 - 🧠 Future goal: Become a skilled **MERN stack developer** and contribute to open source.
@@ -44,7 +44,7 @@
 
 ### 🤝 Connect with Me
 
-- 🌐 [Portfolio Website](https://sandip.bhatta.com.np) (coming soon)
+- 🌐 [Portfolio Website](https://sandip.bhatta.com.np) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sandipbhatta-dev)
 - 🧑‍💻 [GitHub](https://github.com/sandip-dev-max)
 
