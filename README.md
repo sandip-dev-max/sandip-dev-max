@@ -45,7 +45,7 @@
 ### 🤝 Connect with Me
 
 - 🌐 [Portfolio Website](https://sandip.bhatta.com.np) (coming soon)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sandip-dev-max)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sandipbhatta-dev)
 - 🧑‍💻 [GitHub](https://github.com/sandip-dev-max)
 
 ---
