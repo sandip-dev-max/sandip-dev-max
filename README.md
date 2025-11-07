@@ -7,7 +7,7 @@
 ---
 
 ### 💡 About Me
-- 🎓 I'm a 3rd semester BCA student passionate about technology & development.
+- 🎓 I'm a  5th semester BCA student passionate about technology & development.
 - 🌐 I build **web applications**, work on **SaaS projects**, and love **clean UI/UX**.
 - 🔭 Currently working on: `Multi-role SaaS Dashboard`, `E-commerce Website`, `Task Management Stystem`.
 - 💡 Exploring **Next.js**, **Node.js**, and **full-stack development**.
